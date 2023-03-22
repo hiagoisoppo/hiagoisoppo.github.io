@@ -1,0 +1,34 @@
+body {
+    margin: 0;
+    padding: 0;
+    align-items: center;
+    text-align: center;
+}
+
+div#head {
+    background-color: #d5ecdf;
+    width: 100%;
+    padding: 5px;
+}
+
+ul#hardskills{
+    list-style: none;
+}
+
+ul#softskills{
+    list-style: none;
+}
+
+div#skills{
+    background-color: #d5ecdf;
+    width: 100%;
+    padding: 5px;
+}
+
+footer#foot{
+    background-color: black;
+    width: 100%;
+    padding: 5px;
+    text-decoration: none;
+
+}
