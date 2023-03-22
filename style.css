@@ -1,3 +1,8 @@
+a {
+    color: rgb(144, 184, 157);
+    text-decoration: none;
+  }
+
 body {
     margin: 0;
     padding: 0;
@@ -11,12 +16,9 @@ div#head {
     padding: 5px;
 }
 
-ul#hardskills{
-    list-style: none;
-}
-
-ul#softskills{
-    list-style: none;
+div#contact{
+    width: 100%;
+    padding-bottom: 20px;
 }
 
 div#skills{
@@ -29,6 +31,16 @@ footer#foot{
     background-color: black;
     width: 100%;
     padding: 5px;
-    text-decoration: none;
+}
 
+img#profile-picture {
+    border-radius: 15px;
+  }
+
+header{
+    background-color: black;
+    color: #d5ecdf;
+    width: 100%;
+    padding: 5px;
+    font-size: 15px;
 }
