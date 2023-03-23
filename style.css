@@ -1,5 +1,5 @@
 a {
-    color: rgb(144, 184, 157);
+    color: #415A77;
     text-decoration: none;
   }
 
@@ -8,10 +8,12 @@ body {
     padding: 0;
     align-items: center;
     text-align: center;
+    background-color: #E0E1DD;
+    color: #E0E1DD;
 }
 
 div#head {
-    background-color: #d5ecdf;
+    background-color: #415A77;
     width: 100%;
     padding: 5px;
 }
@@ -19,16 +21,17 @@ div#head {
 div#contact{
     width: 100%;
     padding-bottom: 20px;
+    color:#415A77;
 }
 
 div#skills{
-    background-color: #d5ecdf;
     width: 100%;
     padding: 5px;
+    color:#415A77;
 }
 
 footer#foot{
-    background-color: black;
+    background-color: #0D1B2A;
     width: 100%;
     padding: 5px;
 }
@@ -38,8 +41,8 @@ img#profile-picture {
   }
 
 header{
-    background-color: black;
-    color: #d5ecdf;
+    background-color: #0D1B2A;
+    color: #415A77;
     width: 100%;
     padding: 5px;
     font-size: 15px;
